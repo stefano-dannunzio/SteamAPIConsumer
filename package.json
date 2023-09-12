@@ -1,0 +1,16 @@
+{
+  "name": "steamapiconsumer",
+  "version": "0.5.0",
+  "description": "API to consume an SteamworksAPI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emiliano Cortez, Franco Culotta, Stefano D'Annunzio, Maximo Ozonas, Mauro Sagasti",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
