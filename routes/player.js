@@ -8,6 +8,7 @@ const rutas = Router();
 //GetFriendList = Maxi
 
 //GetPlayerAchievements = Mauro
+rutas.get('/logros/:id', getAchievements);
 
 //GetOwnedGames = Franquito
 
